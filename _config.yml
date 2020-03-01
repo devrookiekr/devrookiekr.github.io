@@ -1,16 +1,15 @@
 # Site settings
-title: 기계인간 John Grib
-url: "https://johngrib.github.io"
+title: 데브루키 위키 DevRookie Wiki
+url: "https://devrookiekr.github.io"
 baseurl: ""
 description: >
-    기계인간 블로그
+    데브루키 since 2006
 
 # My information
-email: johngrib82@gmail.com
-author: 기계인간 John Grib
-profile: 유물론자
-twitter_username: John_Grib
-github_username: johngrib
+email: 1reds@hanmail.net
+author: 데브루키 DevRookie
+profile: 초중급게임개발자
+github_username: devrookiekr
 comment-support: utterances
 
 # Build settings
@@ -37,24 +36,15 @@ collections:
         permalink: /:collection/:path/
 
 # Comment Service
-disqus:
-  id: johngrib
-  shortname: johngrib
 utterances:
-  repo: johngrib/johngrib.github.io
+  repo: devrookiekr/devrookiekr.github.io
   issue-term: pathname
   label: Comment
   branch: master
 
-google_analytics:
-  ua: UA-110224147-1
-
-google_adsense:
-  client: ca-pub-3675948545737694
-
-blame: "https://github.com/johngrib/johngrib.github.io/blame/master/_wiki"
-edit: "https://github.com/johngrib/johngrib.github.io/edit/master/_wiki"
-issue: "https://github.com/johngrib/johngrib.github.io/issues/new"
+blame: "https://github.com/devrookiekr/devrookiekr.github.io/blame/master/_wiki"
+edit: "https://github.com/devrookiekr/devrookiekr.github.io/edit/master/_wiki"
+issue: "https://github.com/devrookiekr/devrookiekr.github.io/issues/new"
 
 timezone: "Asia/Seoul"
 
